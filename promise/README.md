@@ -8,6 +8,6 @@ Permite associar handlers a valores que serão retornados em um ponto do futuro.
              **Pending**
              **Fullfiled**
              **Rejected**
-             
+        <br/>    
         :warning: **Warning:** Os Estados da Promise não são acessíveis.
     </section>
